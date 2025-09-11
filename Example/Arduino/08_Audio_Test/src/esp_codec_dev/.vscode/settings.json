@@ -1,0 +1,14 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "audio_codec_if.h": "c",
+    "audio_codec_data_if.h": "c",
+    "esp_codec_dev_types.h": "c",
+    "esp_codec_dev_vol.h": "c",
+    "audio_codec_vol_if.h": "c",
+    "es7210_adc.h": "c",
+    "esp_codec_dev_defaults.h": "c",
+    "es8311_codec.h": "c",
+    "es8311_reg.h": "c"
+  }
+}
