@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "products": [
+    {
+      "id": "esp32-s3-epaper-1.54-v1",
+      "model": "ESP32-S3-ePaper-1.54-V1",
+      "files": [
+        "firmware/ESP32-S3-ePaper-1.54-V1_FactoryOnly_20260416.bin"
+      ]
+    },
+    {
+      "id": "esp32-s3-epaper-1.54-v2",
+      "model": "ESP32-S3-ePaper-1.54-V2",
+      "files": [
+        "firmware/ESP32-S3-ePaper-1.54-V2_FactoryOnly_20260416.bin"
+      ]
+    }
+  ]
+}
