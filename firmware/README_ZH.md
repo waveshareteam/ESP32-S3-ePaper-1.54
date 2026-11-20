@@ -6,7 +6,9 @@
 
 | 出厂固件 | 硬件版本 | 烧录偏移 |
 | --- | --- | --- |
-| [ESP32-S3-ePaper-1.54_FactoryOnly_20260416.bin](V1/ESP32-S3-ePaper-1.54_FactoryOnly_20260416.bin) | V1 | `0x0` |
-| [ESP32-S3-ePaper-1.54_FactoryOnly_20260416.bin](V2/ESP32-S3-ePaper-1.54_FactoryOnly_20260416.bin) | V2 | `0x0` |
+| [ESP32-S3-ePaper-1.54_FactoryOnly_20260416.bin](ESP32-S3-ePaper-1.54_FactoryOnly_20260416.bin) | V2 | `0x0` |
+| [ESP32-S3-ePaper-1.54_FactoryOnly_20260415.bin](ESP32-S3-ePaper-1.54_FactoryOnly_20260415.bin) | V1 | `0x0` |
 
 使开发板进入下载模式，将对应的合并 BIN 从 `0x0` 烧录。
+
+两份固件原文件名的日期均为 2026-04-16。为区分两个硬件版本，V1 文件名使用 2026-04-15 作为整理版本日期。V1 的 BIN 内容未变。
